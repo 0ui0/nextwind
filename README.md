@@ -1,2 +1,2 @@
 # nextwind
-存放nextwind开发文档
+[开发规范](https://github.com/Zerol/nextwind/wiki)
